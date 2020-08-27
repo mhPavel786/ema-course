@@ -17,7 +17,7 @@ const Shop = () => {
       <div className="shop-container">
         <div className="product-container">
           <div className="d-flex justify-content-between">
-            <h1>The Courses We Oferr:</h1>
+            <h1>The Courses We Offer:</h1>
             <Cart cart={cart}></Cart>
           </div>
           {
